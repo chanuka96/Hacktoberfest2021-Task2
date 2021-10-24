@@ -1,8 +1,51 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+
+.name{
+
+color:blue;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12.5%;
+height:25%
+}
+
+mark.red {
+    color:#8D153A;
+    background: none;
+}
+
+mark.yellow {
+    color:#FFBE29;
+    background: none;
+}
+
+mark.orange {
+    color:#EB7400;
+    background: none;
+}
+
+mark.green {
+    color:#00534E;
+    background: none;
+}
+
+
+.body{
+
+
+  background-color: lightblue;
+
 }
